@@ -49,3 +49,8 @@ AI Smart Learning Coach is an intelligent emotion-aware learning platform that l
 - Deployment using Streamlit Cloud.
 - Addition of BERT model for comparison.
 - Real-time emotion analytics dashboard.
+  
+##  Project Team Matrix
+1. Hari Chandana (Team Lead)	Project Manager & Full-Stack Integration Lead	
+2. Vardhan Malisetty	AI/ML Engineer & Streamlit Developer	.
+3. Madhan Mohan	Data Engineer & Analytics Developer
